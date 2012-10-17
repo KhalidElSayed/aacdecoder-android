@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/trunk/decoder/jni/opencore-aacdec
+END
+Apache-LICENSE-2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/decoder/jni/opencore-aacdec/Apache-LICENSE-2.0.txt
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/19/trunk/decoder/jni/opencore-aacdec/Android.mk
+END

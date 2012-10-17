@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/trunk/decoder/src/com/spoledge/aacdecoder
+END
+PCMFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/decoder/src/com/spoledge/aacdecoder/PCMFeed.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/decoder/src/com/spoledge/aacdecoder/Decoder.java
+END
+MultiPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/decoder/src/com/spoledge/aacdecoder/MultiPlayer.java
+END
+PlayerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/decoder/src/com/spoledge/aacdecoder/PlayerCallback.java
+END
+BufferReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/decoder/src/com/spoledge/aacdecoder/BufferReader.java
+END
+MP3Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/decoder/src/com/spoledge/aacdecoder/MP3Player.java
+END
+FlashAACInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/decoder/src/com/spoledge/aacdecoder/FlashAACInputStream.java
+END
+FlashAACPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10/trunk/decoder/src/com/spoledge/aacdecoder/FlashAACPlayer.java
+END
+IcyInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/trunk/decoder/src/com/spoledge/aacdecoder/IcyInputStream.java
+END
+AACPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/decoder/src/com/spoledge/aacdecoder/AACPlayer.java
+END

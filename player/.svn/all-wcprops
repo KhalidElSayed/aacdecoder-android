@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/15/trunk/player
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/15/trunk/player/build.xml
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/player/AndroidManifest.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/player/build.properties
+END
